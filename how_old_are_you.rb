@@ -1,5 +1,3 @@
-touch how_old_are_you.rb
-
 require_relative './current_age_for_birth_year.rb'
  
 puts "What year were you born?"
